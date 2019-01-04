@@ -487,6 +487,11 @@ a{
 	display: inline-block;
 	float: left;
 }
+.lianjie{
+	height: 200px;
+	width: 183px;
+	background:url(../img/qqq.png);
+}
 .quick{
 	width: 207px;
 	height:44px;
